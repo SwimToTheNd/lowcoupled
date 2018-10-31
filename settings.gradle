@@ -1,0 +1,11 @@
+rootProject.name = 'lowcoupled'
+include 'api'
+include 'common'
+include 'dal'
+include 'domain'
+include 'biz'
+include 'provider'
+include 'remote'
+include 'lowcoupled'
+include 'test'
+
